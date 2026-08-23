@@ -1,141 +1,50 @@
-# Iraj Barani
+![Professional Banner](https://github.com/irajbarani0852-design/irajbarani0852-design/raw/main/varesh-social-preview.jpg)
 
-### Mathematics Educator | IT Engineering | Artificial Intelligence
+<h1 align="center">👋 Hello! I'm Iraj Barani</h1>
+<h3 align="center">🧑‍🏫 Mathematics Educator | 👨‍💻 IT Engineering Student | 🧠 AI Researcher</h3>
 
-> **From Mathematics to Intelligence — and from Intelligence to Meaning.**
-
----
-
-## About Me
-
-I am a mathematics educator and IT engineering student with a long-standing interest in mathematics, computer science, artificial intelligence, literature, and human-centered technology.
-
-My journey is driven by a simple belief:
-
-> **Technology becomes meaningful when it serves humanity.**
-
-I am currently building my knowledge step by step — from Python and computer science to data, machine learning, artificial intelligence, and intelligent systems.
+<p align="center">
+  <em>From Mathematics to Intelligence, and from Intelligence to Meaning</em>
+</p>
 
 ---
 
-## My Path
+### 🌟 About Me
 
-**Mathematics → Information Technology → Artificial Intelligence → Human-Centered Intelligence**
+I am a **Mathematics Educator**, **IT Engineering student**, and **AI Researcher**. I have a long-standing passion for mathematics, computer science, artificial intelligence, literature, and human-centered technology. My journey is driven by a simple belief:
 
-Mathematics has taught me to seek structure and reason.
-
-Information technology has taught me to transform ideas into systems.
-
-Artificial intelligence is teaching me to explore the relationship between data, knowledge, reasoning, and human intelligence.
+> **"Technology becomes meaningful when it serves humanity."**
 
 ---
 
-## VARESH-AI
+### 🔭 Skills & Areas of Activity
 
-### An exploration at the intersection of Artificial Intelligence, Culture, Wisdom, and Humanity.
-
-**VARESH-AI** is my long-term research and development project.
-
-It explores how modern AI technologies can contribute to understanding, preserving, connecting, and transmitting cultural and intellectual heritage — beginning with Persian literature and wisdom.
-
-The project is being developed gradually through learning, experimentation, research, and open-source practice.
-
-> **The goal is not merely to build another AI system, but to explore how technology can help humanity move toward its better possibilities.**
-
-[Explore VARESH-AI](https://github.com/irajbarani0852-design/varesh-ai)
+- 🧮 **Pure and Applied Mathematics** | Teaching, Problem Solving, Modeling
+- 💻 **Programming & Software Development** | Python, C++, JavaScript
+- 🤖 **Artificial Intelligence & Machine Learning** | Designing and Implementing Intelligent Systems
+- 🌐 **Web Technologies** | Front-end and Back-end Development
+- 📚 **Literature & Critical Thinking** | Bridging Arts and Humanities with Technology
 
 ---
 
-## Research Interests
+### 📫 Connect with Me
 
-* Artificial Intelligence
-* Machine Learning
-* Natural Language Processing
-* Human-Centered AI
-* Cultural Computing
-* Computational Humanities
-* Persian Literature and Wisdom
-* Mathematics and Computational Thinking
+- 🌐 **Personal Website**: [Coming Soon]
+- 💼 **LinkedIn**: [Insert your LinkedIn profile link]
+- 🐦 **Twitter**: [Insert your Twitter profile link]
+- 📧 **Email**: [Insert your email address]
 
 ---
 
-## Learning & Building
+### ⚡ GitHub Stats
 
-I believe that meaningful projects are built one layer at a time.
-
-```text
-Mathematics
-     ↓
-Programming & Computer Science
-     ↓
-Python
-     ↓
-Data & SQL
-     ↓
-Machine Learning
-     ↓
-Artificial Intelligence
-     ↓
-VARESH-AI
-```
-
----
-
-## Philosophy
-
-One of the ideas that has accompanied me throughout my life is the belief that whatever we build should leave something meaningful behind.
-
-> **همان بِه که نیکی بود یادگار**
-
-*Let what remains behind us be something good.*
-
-I am deeply inspired by the wisdom of Persian literature, particularly the works of **Mawlana Jalal al-Din Rumi**.
-
-One of the verses that has given me strength throughout my journey is:
-
-> **تو مگو ما را بدان شه بار نیست**  
-> **با کریمان کارها دشوار نیست**
-
-For me, this is not merely poetry.
-
-It is a reminder to continue learning, building, and contributing — even when the path appears difficult.
-
----
-
-## Vision
-
-My ambition is to make a small but meaningful contribution to humanity through knowledge, science, technology, and culture.
-
-I do not measure this journey by age or by how late it may have begun.
-
-I measure it by what can still be learned, built, shared, and left behind.
-
-> **Technology should not only make machines more intelligent.
-> It should help humanity become wiser in how it uses intelligence.**
-
----
-
-## Current Focus
-
-* Python
-* Git & GitHub
-* SQL
-* Data Analysis
-* Machine Learning
-* Artificial Intelligence
-* Natural Language Processing
-* Building VARESH-AI
-
----
-
-## Connect
-
-I am interested in connecting with people working in:
-
-**Artificial Intelligence · Mathematics · Computer Science · Cultural Computing · Persian Literature · Human-Centered Technology**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irajbarani0852-design&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irajbarani0852-design&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Learning continuously. Building patiently. Contributing meaningfully.</i>
+  <img src="https://komarev.com/ghpvc/?username=irajbarani0852-design&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
