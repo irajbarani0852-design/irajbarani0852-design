@@ -26,12 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![Iraj GitHub stats](https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dirajbarani0852-design%26show_icons%3Dtrue%26theme%3Ddefault)](https://github.com/irajbarani0852-design)
-
-[![GitHub Streak](https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dirajbarani0852-design)](https://github.com/irajbarani0852-design)
-
 ## About Me
 
 I am a mathematics educator and IT engineering student with a long-standing
