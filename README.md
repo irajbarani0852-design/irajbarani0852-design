@@ -28,14 +28,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+[![Iraj GitHub stats](https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dirajbarani0852-design%26show_icons%3Dtrue%26theme%3Ddefault)](https://github.com/irajbarani0852-design)
 
-![Iraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajbarani0852-design&show_icons=true&theme=default&hide_title=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irajbarani0852-design)
-
-</div>
-
----
+[![GitHub Streak](https://images.weserv.nl/?url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dirajbarani0852-design)](https://github.com/irajbarani0852-design)
 
 ## About Me
 
