@@ -60,8 +60,11 @@ Persian literature and wisdom.
 `Cultural Computing` `Mathematics & Computational Thinking`
 
 ---
-📜 مشاهده گواهی فارسی · View Certificate (EN)
+## 📜 Certifications
 
+**The AI Engineer Course 2025 — Complete AI Engineer Bootcamp**
+Growly Academy via Maktabkhooneh · 32 hours
+[مشاهده گواهی فارسی](certificates/certificate-ai-engineer-fa.png) · [View Certificate (EN)](certificates/certificate-ai-engineer-en.png)
 <details>
 <summary>📖 <strong>My Philosophy & Vision</strong> (click to expand)</summary>
 
